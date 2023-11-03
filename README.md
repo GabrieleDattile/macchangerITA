@@ -17,7 +17,7 @@ Per eseguire questo script, devi avere i seguenti requisiti:
 
 Per usare questo script, devi seguire questi passi:
 
-- Scarica lo script dal [link](https://github.com/shilch/macchanger/blob/master/README.md) o clona il repository con il comando `git clone https://github.com/GabrieleDattile/macchangerITA.sh.git`
+- Scarica lo script dal [link]([](https://github.com/GabrieleDattile/macchangerITA/blob/main/README.md)) o clona il repository con il comando `git clone https://github.com/GabrieleDattile/macchangerITA.sh.git`
 - Rendi lo script eseguibile con il comando `chmod +x macchangerITA.sh`
 - Esegui lo script con il comando `sudo ./macchangerITA.sh [opzione] [interfaccia]`
 
